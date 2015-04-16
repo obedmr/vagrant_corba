@@ -3,7 +3,7 @@
 # Set hostnames
 echo "10.0.0.21 server" >> /etc/hosts
 echo "10.0.0.11 client1" >> /etc/hosts
-echo "10.0.0.11 client2" >> /etc/hosts
+echo "10.0.0.12 client2" >> /etc/hosts
 
 # Install Utilities
 pacman -Syu --noconfirm git
